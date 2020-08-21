@@ -1,2 +1,2 @@
-# C29
-Catapult and rubber band
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
